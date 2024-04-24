@@ -1,0 +1,14 @@
+D:\새 폴더 (3)\개인과제\개인과제\bin\Debug\net8.0\개인과제.exe
+D:\새 폴더 (3)\개인과제\개인과제\bin\Debug\net8.0\개인과제.deps.json
+D:\새 폴더 (3)\개인과제\개인과제\bin\Debug\net8.0\개인과제.runtimeconfig.json
+D:\새 폴더 (3)\개인과제\개인과제\bin\Debug\net8.0\개인과제.dll
+D:\새 폴더 (3)\개인과제\개인과제\bin\Debug\net8.0\개인과제.pdb
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\개인과제.GeneratedMSBuildEditorConfig.editorconfig
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\개인과제.AssemblyInfoInputs.cache
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\개인과제.AssemblyInfo.cs
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\개인과제.csproj.CoreCompileInputs.cache
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\개인과제.dll
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\refint\개인과제.dll
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\개인과제.pdb
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\개인과제.genruntimeconfig.cache
+D:\새 폴더 (3)\개인과제\개인과제\obj\Debug\net8.0\ref\개인과제.dll
